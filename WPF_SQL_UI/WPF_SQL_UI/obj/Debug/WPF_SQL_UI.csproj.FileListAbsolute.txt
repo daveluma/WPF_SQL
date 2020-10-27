@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\bin\Debug\WPF_SQL_UI.exe.config
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\bin\Debug\WPF_SQL_UI.exe
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\bin\Debug\WPF_SQL_UI.pdb
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\App.g.cs
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI_MarkupCompile.cache
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI_MarkupCompile.lref
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\MainWindow.baml
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.g.resources
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.Properties.Resources.resources
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.exe
+C:\Users\Owner\source\repos\WPF_SQL_UI\WPF_SQL_UI\obj\Debug\WPF_SQL_UI.pdb
